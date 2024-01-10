@@ -1,0 +1,7 @@
+0000001=Reservation ID: 0000001
+Flight info:
+Flight number: F1111| Departure city: HO CHI MINH CITY| Destination city: HA NOI| Departure time: 12/12/2023 12:30| Duration: 120| Seats: 29
+Passenger info:
+Passenger ID: 0123456789| Full name: LE VU DUC LUONG| Phone num: 0368984593| Date of birth:07/06/2004
+Check-in status: true
+Selected seat=4F

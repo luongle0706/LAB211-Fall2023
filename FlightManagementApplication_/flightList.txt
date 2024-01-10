@@ -1,0 +1,10 @@
+Flight number: F9999| Departure city: HA NOI| Destination city: CA MAU| Departure time: 30/10/2023 15:00| Duration: 140| Seats: 30
+Flight number: F7777| Departure city: HA NOI| Destination city: CAN THO| Departure time: 22/11/2023 03:00| Duration: 140| Seats: 30
+Flight number: F6666| Departure city: HA NOI| Destination city: DA NANG| Departure time: 29/11/2023 04:45| Duration: 90| Seats: 30
+Flight number: F4444| Departure city: HO CHI MINH CITY| Destination city: THANH HOA| Departure time: 01/12/2023 17:45| Duration: 120| Seats: 25
+Flight number: F6789| Departure city: HA NOI| Destination city: VUNG TAU| Departure time: 05/12/2023 16:30| Duration: 120| Seats: 25
+Flight number: F2222| Departure city: HO CHI MINH CITY| Destination city: DA NANG| Departure time: 10/12/2023 10:15| Duration: 100| Seats: 30
+Flight number: F1111| Departure city: HO CHI MINH CITY| Destination city: HA NOI| Departure time: 12/12/2023 12:30| Duration: 120| Seats: 29
+Flight number: F3333| Departure city: HO CHI MINH CITY| Destination city: HUE| Departure time: 14/12/2023 9:45| Duration: 100| Seats: 25
+Flight number: F8888| Departure city: HA NOI| Destination city: NHA TRANG| Departure time: 22/12/2023 12:00| Duration: 100| Seats: 30
+Flight number: F5555| Departure city: HA NOI| Destination city: HO CHI MINH CITY| Departure time: 23/12/2023 06:30| Duration: 120| Seats: 30

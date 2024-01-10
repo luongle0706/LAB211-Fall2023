@@ -1,0 +1,8 @@
+For flight:
+Flight number: F1111| Departure city: HO CHI MINH CITY| Destination city: HA NOI| Departure time: 12/12/2023 12:30| Duration: 120| Seats: 29
+Pilots:
+{P01=ID: P01| Name: John Carter| Role: Pilot}
+Flight attendants:
+{F01=ID: F01| Name: Lee Wang| Role: Flight attendant}
+Ground staffs:
+{G01=ID: G01| Name: Hafsah Walker| Role: Ground staff}
